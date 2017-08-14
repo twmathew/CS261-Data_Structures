@@ -1,6 +1,6 @@
 # CS261-Data_Structures
 
-Including 2 assignments
+Including 2 assignments, each within a branch
 
 Assignment 6: Given skeleton code, complete the implementation of a hash map and a concordance program.
 
